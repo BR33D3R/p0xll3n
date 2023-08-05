@@ -37,6 +37,7 @@ Here's a suggested folder and file structure:
             /images
             /styles
         /contexts
+        
             UserContext.js
             SeedContext.js
         App.js
